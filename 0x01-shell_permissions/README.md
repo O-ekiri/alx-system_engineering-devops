@@ -1,1 +1,1 @@
-Administrator name
+Shell Permissions
